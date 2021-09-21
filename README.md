@@ -1,6 +1,6 @@
 # I2C Project - Inter-Integrated Circuit
 
-Desenvolvimento de biblioteca para uso do protocolo de comunicação I2C, com PIC16F887 utilizado em modo Mestre
+Desenvolvimento de biblioteca para uso do protocolo de comunicação I2C, aplicado ao MCP4725 - Conversor Digital-Analógico
 
 * Ambiente de desenvolvimento: MPLABX-IDE
 
